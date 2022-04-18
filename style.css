@@ -1,0 +1,133 @@
+.header{
+	background-color: #E0AD45;
+}
+.cont_1{
+	background: #2B302C;
+	height: 205px;
+    width: 683px;
+	border-radius: 30px;
+}
+.cont_2{
+	background-color: #ffffff;
+	width: 590px;
+	height: 123px;
+	border-radius: 20px;
+}
+.cont_3{
+	height: 55px;
+	width: 211px;
+	background-color: #8FB88B;	
+	border-radius: 20px;
+}
+.cont_4{
+	height: 205px;
+	width: 683px;
+	background-color: #2B302C;
+	border-radius: 20px;
+}
+.cont_5{
+	height: 300px;
+	width: 1920px;
+	background-color: #E0AD45;
+}
+.cont_6{
+	height: 370px;
+	width: 1258px;
+	background-color: #E0AD45;
+	border-radius: 30px;
+}
+.cont_7{
+	height: 750px;
+	width: 1142px;
+	background-color: #E0AD45;
+	border-radius: 30px;
+}
+.cont_sign{
+	height: 68px;
+	width: 319px;
+	background-color: #8FB88B;
+	border-radius: 30px;
+}
+.cont_reg{
+	height: 68px;
+	width: 319px;
+	background-color: #8FB88B;
+	border-radius: 30px;
+}
+.cont_days{
+	background-color: #797979;
+	height: 70px;
+	width: 200px;
+	border-radius: 10px;
+}
+.cont_break{
+	background-color: #E58C59;
+	height: 70px;
+	width: 200px;
+	border-radius: 10px;
+}
+.cont_dinner{
+	background-color: #8FB88B;
+	height: 70px;
+	width: 200px;
+	border-radius: 10px;
+}
+.cont_dinner1{
+	background-color: #679CA1;
+	height: 70px;
+	width: 200px;
+	border-radius: 10px;
+}
+.cont_gk{
+	background-color: #E58C59;
+	height: 70px;
+	width: 200px;
+	border-radius: 10px;
+}
+.cont_10prof{
+	background-color: #8FB88B;
+	height: 70px;
+	width: 200px;
+	border-radius: 10px;
+}
+.cont_11prof{
+	background-color: #679CA1;
+	height: 70px;
+	width: 200px;
+	border-radius: 10px;
+}
+@font-face{
+	font-family: font1;
+	src: url(Manrope-Medium.ttf);
+}
+#font-face{
+	font-family: font1;
+	src: url(Manrope-Medium.ttf);
+}
+h1{
+	font-family: font1;
+}
+p{
+	font-family: font1;
+}
+h2{
+	font-family: font1;
+}
+h3{
+	font-family: font1;
+}
+h4{
+	font-family: font1;
+	text-align: center;
+}
+h5{
+	font-family: font1;
+}
+.image {
+	position	: relative;
+	width		: 100%;
+}
+.logo{
+	max-width: 100px;
+	max-height: 100px;
+}
